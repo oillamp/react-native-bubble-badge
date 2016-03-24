@@ -1,6 +1,6 @@
 {
   "name": "react-native-bubble-badge",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "badge",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
     "badge"
   ],
   "author": "oillamp",
-  "homepage": "https://github.com/ide/react-native-button",
+  "homepage": "https://github.com/oillamp/react-native-bubble-badge.git",
   "license": "MIT"
 }
